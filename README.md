@@ -10,5 +10,7 @@ This web application is a regression model that predicts a student's performance
 - Python
 - Scikit-learn
 
-
+### Check the deployment on:-
+Azure:- https://studentperformanceindicator.azurewebsites.net/
+AWS:- http://studentperformance-env.eba-jzhfhshd.us-east-1.elasticbeanstalk.com/predictdata
 
